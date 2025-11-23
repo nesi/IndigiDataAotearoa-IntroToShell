@@ -20,7 +20,7 @@
 
 !!! key "License" 
 
-    Genomics Aotearoa / REANNZ "Intermediate Shell for Bioinformatics" is licensed under the **GNU General Public License v3.0, 29 June 2007** . ([Follow this link for more information](https://github.com/GenomicsAotearoa/shell-for-bioinformatics/blob/main/LICENSE))
+    Genomics Aotearoa / REANNZ "Intermediate Shell for Bioinformatics" is licensed under the **GNU General Public License v3.0, 29 June 2007** . ([Follow this link for more information](https://github.com/nesi/IndigiDataAotearoa-IntroToShell/blob/main/LICENSE))
     
 !!! info ""
 
