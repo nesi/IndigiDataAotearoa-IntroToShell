@@ -14,6 +14,8 @@
 
     [3. Introduction to Shell Commands - 2](./3-intro2shellcommands.md){ .md-button .md-button--primary } 
 
+    [4. Introduction to Shell Scripts - 2](./4-intro2hellscripts.md){ .md-button .md-button--primary } 
+
 <br>
 
 !!! key "License" 
