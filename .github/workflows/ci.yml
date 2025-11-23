@@ -24,6 +24,6 @@ jobs:
       - run: mkdocs build
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: 'site'
+          path: 'public'
       - id: deployment
         uses: actions/deploy-pages@v4
